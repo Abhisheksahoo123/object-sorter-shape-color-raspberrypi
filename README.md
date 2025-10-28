@@ -28,7 +28,7 @@ The uploaded report is a public version with student registration numbers remove
 This is a group academic project submitted to Institute of Technical Education & Research under the B.Tech curriculum.
 ##  Demo Video
 
-▶ [Click here to watch the project demo](https://drive.google.com/file/d/1r5Bu21FjEqy1jjfVReZuCw5r8tjW-YCo/view?usp=drive_link)
+▶ [Click here to watch the project demo](https://drive.google.com/file/d/1t6UENgdFqgUftqiD843-2vPKZkpCdrSo/view?usp=sharing)
 
 This video demonstrates the working of the project in real time, including key features, inputs, and outputs.
 
